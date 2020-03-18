@@ -58,7 +58,7 @@ This file is then embedded into the library by adding the following to the proje
 </ItemGroup>
 ```
 
-> Note that the name of the embedded XML linker config file must match the name of the assembly. By default the file name will be prefixed with the assembly namespace, so the correct name must be explicitly specified as the `LogiclName` for the embedded file.
+> Note that the name of the embedded XML linker config file must match the name of the assembly. By default the file name will be prefixed with the assembly namespace, so the correct name must be explicitly specified as the `LogicalName` for the embedded file.
 
 ## Additional resources
 
