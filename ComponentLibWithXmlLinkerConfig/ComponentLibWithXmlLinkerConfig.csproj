@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="ComponentLibWithXmlLinkerConfig.xml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <EmbeddedResource Include="ComponentLibWithXmlLinkerConfig.xml">
       <LogicalName>ComponentLibWithXmlLinkerConfig.xml</LogicalName>
     </EmbeddedResource>
