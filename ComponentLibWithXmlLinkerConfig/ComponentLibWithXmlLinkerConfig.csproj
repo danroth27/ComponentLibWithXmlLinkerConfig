@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <EmbeddedResource Include="ComponentLibWithXmlLinkerConfig.xml">
-      <LogicalName>ComponentLibWithXmlLinkerConfig.xml</LogicalName>
+      <LogicalName>$(MSBuildProjectName).xml</LogicalName>
     </EmbeddedResource>
   </ItemGroup>
 
